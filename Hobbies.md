@@ -1,3 +1,3 @@
-* VTT
-* Moto
-* Internet
+- VTT
+- Moto
+- Internet
